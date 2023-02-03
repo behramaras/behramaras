@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm Behram. I'm new in here. Those are some of my skills.
+Hi, I'm Behram. I'm new in here. These are some of my skills:
 
 |    Rank    |   Skill   |
 |-----------:|-----------|
