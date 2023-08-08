@@ -9,7 +9,11 @@ Hi, I'm Behram. I'm new in here. These are some of my skills:
 |  Beginner  |   Python  |
 |  Beginner  |    SQL    |
 |  Beginner  |  Django   |
+|  Beginner  |Django-Rest|
 |  Beginner  |    NPL    |
+|  Beginner  |    Git    |
+|  Beginner  |  Github   |
+|  Beginner  |   Agile   |
 |Intermediate|  Pycharm  |
 |Intermediate|   IDLE    |
 
