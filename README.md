@@ -17,6 +17,7 @@
 <a href="https://www.python.org" target="_blank" rel=”noopener”> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="33" height="30"/> </a> 
 <a href="https://www.djangoproject.com" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-3521389-2944833.png?f=webp&w=256" alt="django" width="30" height="30"/> </a>
 <a href="https://dev.java/learn/" target="_blank" rel=”noopener”> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" alt="java" width="30" height="30"/> </a> 
+<a href="https://www.javascript.com" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
@@ -29,7 +30,8 @@
 <a href="https://jupyter.org" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="37" height="27"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="37" height="27"/> </a>
 <a href="https://heroku.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-
+<a href="https://www.microsoft.com/en-gb/microsoft-365/excel" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/119_Excel_logo_logos-512.png" alt="excel" width="30" height="30"/> </a> 
+<a href="https://powerbi.microsoft.com/en-gb/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="powerbi" width="30" height="30"/> </a> 
 </p>
 
 
