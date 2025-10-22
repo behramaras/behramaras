@@ -34,6 +34,14 @@
 <a href="https://powerbi.microsoft.com/en-gb/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="powerbi" width="30" height="30"/> </a> 
 </p>
 
+## GitHub Statistics
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEHRAMARAS&layout=compact&theme=tokyonight)](https://github.com/BEHRAMARAS)
+
+### Contributions
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEHRAMARAS&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/BEHRAMARAS)
+
 
 You will find more than this in the repositories.
 If you interested in with me or my project, please get in touch with me.
