@@ -37,10 +37,10 @@
 ## GitHub Statistics
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEHRAMARAS&layout=compact&theme=tokyonight)](https://github.com/BEHRAMARAS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEHRAMARAS&layout=compact&theme=tokyonight)](https://github.com/behramaras)
 
 ### Contributions
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEHRAMARAS&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/BEHRAMARAS)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEHRAMARAS&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/behramaras)
 
 
 You will find more than this in the repositories.
