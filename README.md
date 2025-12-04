@@ -37,11 +37,10 @@
 ## GitHub Statistics
 
 ### Top Languages
-[![GitHub Stats](https://github-readme-stats-hs05sj165-behramaras-projects.vercel.app/api?username=behramaras&show_icons=true&theme=tokyonight)](https://github.com/behramaras)
+![GitHub Stats](https://github-readme-stats-nine-azure-22.vercel.app/api?username=behramaras&show_icons=true&theme=tokyonight)
 
 ### Contributions
-[![Top Langs](https://github-readme-stats-hs05sj165-behramaras-projects.vercel.app/api/top-langs/?username=behramaras&layout=compact&theme=tokyonight)](https://github.com/behramaras)
-
+![Top Langs](https://github-readme-stats-nine-azure-22.vercel.app/api/top-langs/?username=behramaras&layout=compact&theme=tokyonight)
 
 You will find more than this in the repositories.
 If you interested in with me or my project, please get in touch with me.
